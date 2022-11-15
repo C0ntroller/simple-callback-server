@@ -1,6 +1,6 @@
 # Simple Callback Server
 
-[![Read the blog entry at c0ntroller.de](https://c0ntroller.de/img/read-blog.svg)](https://c0ntroller.de/#/project/simple-cb)
+[![Read the blog entry at c0ntroller.de](https://c0ntroller.de/img/read-blog.svg)](https://c0ntroller.de/blog/project/simple-cb)
 
 A simple server that prints headers and body of a request to the console.
 
